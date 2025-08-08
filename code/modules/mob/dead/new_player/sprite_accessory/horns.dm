@@ -110,7 +110,7 @@
 	name = "Lifted Horns"
 	icon_state = "lifted"
 
-/datum/sprite_accessory/horns/liftedhornsbroken
+/datum/sprite_accessory/horns/brokenliftedhorns
 	name = "Lifted Horns (Broken)"
 	icon_state = "liftedbroken"
 
